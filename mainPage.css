@@ -1,0 +1,20 @@
+body
+{
+    /* background-color: black;
+    color: white; */
+}
+
+.mainBody
+{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.border
+{
+    border:10px solid red;
+    justify-content:center;
+    align-items: center;
+    height:20rem;
+}
